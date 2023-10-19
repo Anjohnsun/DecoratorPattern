@@ -2,7 +2,6 @@
 {
     public class CaesarHotDog : HotDog
     {
-        //Конструктор
         public CaesarHotDog(SOHotDogData hotDogData) : base(hotDogData)
         {
         }

@@ -4,7 +4,6 @@
     {
         protected HotDog hotDog;
 
-        //Конструктор
         public HotDogDecorator(SOHotDogData hotDogData, HotDog hotDog) : base(hotDogData)
         {
             this.hotDog = hotDog;
